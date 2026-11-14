@@ -1,8 +1,9 @@
 <!DOCTYPE html>
 <html lang="en">
+ <title>My Portfolio</title>
 <head>
  <meta charset="UTF-8">
- <title>My Portfolio</title>
+
 </head>
 <body>
  <header>
